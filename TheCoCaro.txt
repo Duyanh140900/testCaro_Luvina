@@ -1,0 +1,2646 @@
+O O O O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O O T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O T O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T O O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T G G G G
+O G G G G
+O G G G G
+O G G G G
+O G G G G
+
+O G G G G
+T G G G G
+O G G G G
+O G G G G
+O G G G G
+
+O G G G G
+O G G G G
+T G G G G
+O G G G G
+O G G G G
+
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+O G G G G
+
+O G G G G
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+
+T G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G O
+
+O G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G O
+
+O G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G O
+
+O G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G O
+
+O G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G T
+
+G G G G T
+G G G O G
+G G O G G
+G O G G G
+O G G G G
+
+G G G G O
+G G G T G
+G G O G G
+G O G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G T G G
+G O G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G O G G
+G T G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G O G G
+G O G G G
+T G G G G
+
+X X X T X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X T X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T X X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X X X T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X X X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X G G G G
+T G G G G
+X G G G G
+X G G G G
+X G G G G
+
+X G G G G
+X G G G G
+T G G G G
+X G G G G
+X G G G G
+
+X G G G G
+X G G G G
+X G G G G
+T G G G G
+X G G G G
+
+T G G G G
+X G G G G
+X G G G G
+X G G G G
+X G G G G
+
+X G G G G
+X G G G G
+X G G G G
+X G G G G
+T G G G G
+
+X G G G G
+G T G G G
+G G X G G
+G G G X G
+G G G G X
+
+X G G G G
+G X G G G
+G G T G G
+G G G X G
+G G G G X
+
+X G G G G
+G X G G G
+G G X G G
+G G G T G
+G G G G X
+
+T G G G G
+G X G G G
+G G X G G
+G G G X G
+G G G G X
+
+X G G G G
+G X G G G
+G G X G G
+G G G X G
+G G G G T
+
+G G G G X
+G G G T G
+G G X G G
+G X G G G
+X G G G G
+
+G G G G X
+G G G X G
+G G T G G
+G X G G G
+X G G G G
+
+G G G G X
+G G G X G
+G G X G G
+G T G G G
+X G G G G
+
+G G G G T
+G G G X G
+G G X G G
+G X G G G
+X G G G G
+
+G G G G X
+G G G X G
+G G X G G
+G X G G G
+T G G G G
+
+O O O T G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O O G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+G G G G G
+
+T G G G G
+O G G G G
+O G G G G
+O G G G G
+G G G G G
+
+O G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G G
+
+T G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G G
+
+G G G T G
+G G O G G
+G O G G G
+O G G G G
+G G G G G
+
+G G G O G
+G G O G G
+G O G G G
+T G G G G
+G G G G G
+
+X X X T G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X X X G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X G G G G
+X G G G G
+X G G G G
+T G G G G
+G G G G G
+
+T G G G G
+X G G G G
+X G G G G
+X G G G G
+G G G G G
+
+T G G G G
+G X G G G
+G G X G G
+G G G X G
+G G G G G
+
+X G G G G
+G X G G G
+G G X G G
+G G G T G
+G G G G G
+
+G G G X G
+G G X G G
+G X G G G
+T G G G G
+G G G G G
+
+G G G T G
+G G X G G
+G X G G G
+X G G G G
+G G G G G
+
+X G G G G
+X G G G G
+T G G G G
+X G G G G
+G G G G G
+
+X G G G G
+T G G G G
+X G G G G
+X G G G G
+G G G G G
+
+X X T X G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T X X G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X G G G G
+G X G G G
+G G T G G
+G G G X G
+G G G G G
+
+X G G G G
+G T G G G
+G G X G G
+G G G X G
+G G G G G
+
+G G G X G
+G G X G G
+G T G G G
+X G G G G
+G G G G G
+
+G G G X G
+G G T G G
+G X G G G
+X G G G G
+G G G G G
+
+O O O T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O T O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T O O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O O O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O O T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O T O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D T O O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O D O O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O D O T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O D T O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T D O O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O D T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O D O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T D O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O D O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O D O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T O D O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O T D O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O O D T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D G G G G
+T G G G G
+O G G G G
+O G G G G
+O G G G G
+
+D G G G G
+O G G G G
+T G G G G
+O G G G G
+O G G G G
+
+D G G G G
+O G G G G
+O G G G G
+T G G G G
+O G G G G
+
+D G G G G
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+
+O G G G G
+T G G G G
+O G G G G
+O G G G G
+D G G G G
+
+O G G G G
+O G G G G
+T G G G G
+O G G G G
+D G G G G
+
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+D G G G G
+
+O G G G G
+D G G G G
+T G G G G
+O G G G G
+O G G G G
+
+O G G G G
+D G G G G
+O G G G G
+T G G G G
+O G G G G
+
+O G G G G
+D G G G G
+O G G G G
+O G G G G
+T G G G G
+
+O G G G G
+T G G G G
+D G G G G
+O G G G G
+O G G G G
+
+O G G G G
+O G G G G
+D G G G G
+T G G G G
+O G G G G
+
+O G G G G
+O G G G G
+D G G G G
+O G G G G
+T G G G G
+
+T G G G G
+O G G G G
+O G G G G
+D G G G G
+O G G G G
+
+O G G G G
+T G G G G
+O G G G G
+D G G G G
+O G G G G
+
+O G G G G
+O G G G G
+T G G G G
+D G G G G
+O G G G G
+
+
+D G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G T
+
+D G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G O
+
+D G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G O
+
+D G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G O
+
+T G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G D
+
+O G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G D
+
+O G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G D
+
+O G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G D
+
+O G G G G
+G D G G G
+G G O G G
+G G G O G
+G G G G T
+
+O G G G G
+G D G G G
+G G O G G
+G G G T G
+G G G G O
+
+O G G G G
+G D G G G
+G G T G G
+G G G O G
+G G G G O
+
+T G G G G
+G D G G G
+G G O G G
+G G G O G
+G G G G O
+
+O G G G G
+G O G G G
+G G D G G
+G G G O G
+G G G G T
+
+O G G G G
+G O G G G
+G G D G G
+G G G T G
+G G G G O
+
+O G G G G
+G T G G G
+G G D G G
+G G G O G
+G G G G O
+
+T G G G G
+G O G G G
+G G D G G
+G G G O G
+G G G G O
+
+T G G G G
+G O G G G
+G G O G G
+G G G D G
+G G G G O
+
+O G G G G
+G T G G G
+G G O G G
+G G G D G
+G G G G O
+
+O G G G G
+G O G G G
+G G T G G
+G G G D G
+G G G G O
+
+O G G G G
+G O G G G
+G G O G G
+G G G D G
+G G G G T
+
+T G G G G
+G O G G G
+G G O G G
+G G G D G
+G G G G O
+
+G G G G D
+G G G T G
+G G O G G
+G O G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G T G G
+G O G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G O G G
+G T G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G O G G
+G O G G G
+T G G G G
+
+G G G G T
+G G G O G
+G G O G G
+G O G G G
+D G G G G
+
+G G G G O
+G G G T G
+G G O G G
+G O G G G
+D G G G G
+
+G G G G O
+G G G O G
+G G T G G
+G O G G G
+D G G G G
+
+G G G G O
+G G G O G
+G G O G G
+G T G G G
+D G G G G
+
+G G G G T
+G G G O G
+G G O G G
+G D G G G
+O G G G G
+
+G G G G O
+G G G T G
+G G O G G
+G D G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G T G G
+G D G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G O G G
+G D G G G
+T G G G G
+
+G G G G T
+G G G O G
+G G D G G
+G O G G G
+O G G G G
+
+G G G G O
+G G G T G
+G G D G G
+G O G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G D G G
+G T G G G
+O G G G G
+
+G G G G O
+G G G O G
+G G D G G
+G O G G G
+T G G G G
+
+G G G G O
+G G G D G
+G G O G G
+G O G G G
+T G G G G
+
+G G G G O
+G G G D G
+G G O G G
+G T G G G
+O G G G G
+
+G G G G O
+G G G D G
+G G T G G
+G O G G G
+O G G G G
+
+G G G G T
+G G G D G
+G G O G G
+G O G G G
+O G G G G
+
+G G G G D
+G G G X G
+G G X G G
+G X G G G
+T G G G G
+
+G G G G D
+G G G X G
+G G X G G
+G T G G G
+X G G G G
+
+G G G G D
+G G G X G
+G G T G G
+G X G G G
+X G G G G
+
+G G G G D
+G G G T G
+G G X G G
+G X G G G
+X G G G G
+
+G G G G T
+G G G X G
+G G X G G
+G X G G G
+D G G G G
+
+G G G G X
+G G G T G
+G G X G G
+G X G G G
+D G G G G
+
+G G G G X
+G G G X G
+G G T G G
+G X G G G
+D G G G G
+
+G G G G X
+G G G X G
+G G X G G
+G T G G G
+D G G G G
+
+G G G G X
+G G G D G
+G G X G G
+G X G G G
+T G G G G
+
+G G G G X
+G G G D G
+G G X G G
+G T G G G
+X G G G G
+
+G G G G X
+G G G D G
+G G T G G
+G X G G G
+X G G G G
+
+G G G G T
+G G G D G
+G G X G G
+G X G G G
+X G G G G
+
+G G G G T
+G G G X G
+G G X G G
+G D G G G
+X G G G G
+
+G G G G X
+G G G T G
+G G X G G
+G D G G G
+X G G G G
+
+G G G G X
+G G G T G
+G G D G G
+G X G G G
+X G G G G
+
+G G G G X
+G G G X G
+G G D G G
+G T G G G
+X G G G G
+
+D G G G G
+G X G G G
+G G X G G
+G G G X G
+G G G G T
+
+D G G G G
+G X G G G
+G G X G G
+G G G T G
+G G G G X
+
+D G G G G
+G X G G G
+G G T G G
+G G G X G
+G G G G X
+
+D G G G G
+G T G G G
+G G X G G
+G G G X G
+G G G G X
+
+T G G G G
+G X G G G
+G G X G G
+G G G X G
+G G G G D
+
+X G G G G
+G T G G G
+G G X G G
+G G G X G
+G G G G D
+
+X G G G G
+G X G G G
+G G T G G
+G G G X G
+G G G G D
+
+X G G G G
+G X G G G
+G G X G G
+G G G T G
+G G G G D
+
+X G G G G
+G D G G G
+G G X G G
+G G G T G
+G G G G X
+
+X G G G G
+G D G G G
+G G T G G
+G G G X G
+G G G G X
+
+X G G G G
+G X G G G
+G G D G G
+G G G T G
+G G G G X
+
+X G G G G
+G T G G G
+G G D G G
+G G G X G
+G G G G X
+
+X G G G G
+G X G G G
+G G T G G
+G G G D G
+G G G G X
+
+X G G G G
+G T G G G
+G G X G G
+G G G D G
+G G G G X
+
+T G G G G
+G X G G G
+G G X G G
+G G G D G
+G G G G X
+
+T G G G G
+X G G G G
+X G G G G
+X G G G G
+D G G G G
+
+X G G G G
+T G G G G
+X G G G G
+X G G G G
+D G G G G
+
+X G G G G
+X G G G G
+T G G G G
+X G G G G
+D G G G G
+
+X G G G G
+X G G G G
+X G G G G
+T G G G G
+D G G G G
+
+D G G G G
+X G G G G
+X G G G G
+X G G G G
+T G G G G
+
+D G G G G
+X G G G G
+X G G G G
+T G G G G
+X G G G G
+
+D G G G G
+X G G G G
+T G G G G
+X G G G G
+X G G G G
+
+D G G G G
+T G G G G
+X G G G G
+X G G G G
+X G G G G
+
+X G G G G
+D G G G G
+X G G G G
+X G G G G
+T G G G G
+
+X G G G G
+D G G G G
+X G G G G
+T G G G G
+X G G G G
+
+X G G G G
+D G G G G
+T G G G G
+X G G G G
+X G G G G
+
+T G G G G
+D G G G G
+X G G G G
+X G G G G
+X G G G G
+
+X G G G G
+X G G G G
+D G G G G
+X G G G G
+T G G G G
+
+X G G G G
+X G G G G
+D G G G G
+T G G G G
+X G G G G
+
+X G G G G
+T G G G G
+D G G G G
+X G G G G
+X G G G G
+
+T G G G G
+X G G G G
+D G G G G
+X G G G G
+X G G G G
+
+X G G G G
+X G G G G
+X G G G G
+D G G G G
+T G G G G
+
+X G G G G
+X G G G G
+T G G G G
+D G G G G
+X G G G G
+
+X G G G G
+T G G G G
+X G G G G
+D G G G G
+X G G G G
+
+T G G G G
+X G G G G
+X G G G G
+D G G G G
+X G G G G
+
+X X X T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X T X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T X X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X X X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D X X X T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D X X T X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D X T X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D T X X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D X X T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D X T X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D T X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T D X X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X D X T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X D T X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T D X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X D X X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X X D T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X T D X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T X D X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X X D X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O O O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O O T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O T O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T O O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O O X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T O O X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O T O X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O O T X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+X G G G G
+
+O G G G G
+O G G G G
+T G G G G
+O G G G G
+X G G G G
+
+O G G G G
+T G G G G
+O G G G G
+O G G G G
+X G G G G
+
+T G G G G
+O G G G G
+O G G G G
+O G G G G
+X G G G G
+
+X G G G G
+O G G G G
+O G G G G
+O G G G G
+T G G G G
+
+X G G G G
+O G G G G
+O G G G G
+T G G G G
+O G G G G
+
+X G G G G
+O G G G G
+T G G G G
+O G G G G
+O G G G G
+
+X G G G G
+T G G G G
+O G G G G
+O G G G G
+O G G G G
+
+X G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G T
+
+X G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G O
+
+X G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G O
+
+X G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G O
+
+T G G G G
+G O G G G
+G G O G G
+G G G O G
+G G G G X
+
+O G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G X
+
+O G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G X
+
+O G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G X
+
+G G G G X
+G G G O G
+G G O G G
+G O G G G
+T G G G G
+
+G G G G X
+G G G O G
+G G O G G
+G T G G G
+O G G G G
+
+G G G G X
+G G G O G
+G G T G G
+G O G G G
+O G G G G
+
+G G G G X
+G G G T G
+G G O G G
+G O G G G
+O G G G G
+
+G G G G T
+G G G O G
+G G O G G
+G O G G G
+X G G G G
+
+G G G G O
+G G G T G
+G G O G G
+G O G G G
+X G G G G
+
+G G G G O
+G G G O G
+G G T G G
+G O G G G
+X G G G G
+
+G G G G O
+G G G O G
+G G O G G
+G T G G G
+X G G G G
+
+O O T D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T O D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O O D T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T D O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O D O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O D O T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O D T O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T D O O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O O T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O T O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D T O O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D G G G G
+D G G G G
+T G G G G
+O G G G G
+O G G G G
+
+D G G G G
+D G G G G
+O G G G G
+T G G G G
+O G G G G
+
+D G G G G
+D G G G G
+O G G G G
+O G G G G
+T G G G G
+
+D G G G G
+T G G G G
+D G G G G
+O G G G G
+O G G G G
+
+D G G G G
+O G G G G
+D G G G G
+T G G G G
+O G G G G
+
+D G G G G
+O G G G G
+D G G G G
+O G G G G
+T G G G G
+
+D G G G G
+T G G G G
+O G G G G
+D G G G G
+O G G G G
+
+D G G G G
+O G G G G
+T G G G G
+D G G G G
+O G G G G
+
+D G G G G
+O G G G G
+O G G G G
+D G G G G
+T G G G G
+
+D G G G G
+T G G G G
+O G G G G
+O G G G G
+D G G G G
+
+D G G G G
+O G G G G
+T G G G G
+O G G G G
+D G G G G
+
+D G G G G
+O G G G G
+O G G G G
+T G G G G
+D G G G G
+
+D G G G G
+G D G G G
+G G T G G
+G G G O G
+G G G G O
+
+D G G G G
+G D G G G
+G G O G G
+G G G T G
+G G G G O
+
+D G G G G
+G D G G G
+G G O G G
+G G G O G
+G G G G T
+
+D G G G G
+G T G G G
+G G D G G
+G G G O G
+G G G G O
+
+D G G G G
+G O G G G
+G G D G G
+G G G T G
+G G G G O
+
+D G G G G
+G O G G G
+G G D G G
+G G G O G
+G G G G T
+
+D G G G G
+G T G G G
+G G O G G
+G G G D G
+G G G G O
+
+D G G G G
+G O G G G
+G G T G G
+G G G D G
+G G G G O
+
+D G G G G
+G O G G G
+G G O G G
+G G G D G
+G G G G T
+
+D G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G D
+
+D G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G D
+
+D G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G D
+
+G G G G D
+G G G D G
+G G T G G
+G O G G G
+O G G G G
+
+G G G G D
+G G G D G
+G G O G G
+G T G G G
+O G G G G
+
+G O O T G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T O O G G
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+G G G G G
+O G G G G
+O G G G G
+T G G G G
+G G G G G
+
+T G G G G
+O G G G G
+O G G G G
+G G G G G
+G G G G G
+
+G G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G G
+
+T G G G G
+G O G G G
+G G O G G
+G G G G G
+G G G G G
+
+G G G T G
+G G O G G
+G O G G G
+G G G G G
+G G G G G
+
+G G G G G
+G G O G G
+G O G G G
+T G G G G
+G G G G G
+
+G G G G D
+G G G D G
+G G O G G
+G O G G G
+T G G G G
+
+G G G G D
+G G G T G
+G G D G G
+G O G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G D G G
+G T G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G D G G
+G O G G G
+T G G G G
+
+G G G G D
+G G G T G
+G G O G G
+G D G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G T G G
+G D G G G
+O G G G G
+
+G G G G D
+G G G O G
+G G O G G
+G D G G G
+T G G G G
+
+G G G G D
+G G G T G
+G G O G G
+G O G G G
+D G G G G
+
+G G G G D
+G G G O G
+G G T G G
+G O G G G
+D G G G G
+
+G G G G D
+G G G O G
+G G O G G
+G T G G G
+D G G G G
+
+X X T D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T X D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X X D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X X D T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T D X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T X D X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D X T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D T X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+T D X X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D X X T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D X T X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D T X X D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D G G G G
+D G G G G
+T G G G G
+X G G G G
+X G G G G
+
+D G G G G
+D G G G G
+X G G G G
+T G G G G
+X G G G G
+
+D G G G G
+D G G G G
+X G G G G
+X G G G G
+T G G G G
+
+D G G G G
+T G G G G
+D G G G G
+X G G G G
+X G G G G
+
+D G G G G
+X G G G G
+D G G G G
+T G G G G
+X G G G G
+
+D G G G G
+X G G G G
+D G G G G
+X G G G G
+T G G G G
+
+D G G G G
+T G G G G
+X G G G G
+D G G G G
+X G G G G
+
+D G G G G
+X G G G G
+T G G G G
+D G G G G
+X G G G G
+
+D G G G G
+X G G G G
+X G G G G
+D G G G G
+T G G G G
+
+D G G G G
+T G G G G
+X G G G G
+X G G G G
+D G G G G
+
+D G G G G
+X G G G G
+T G G G G
+X G G G G
+D G G G G
+
+D G G G G
+X G G G G
+X G G G G
+T G G G G
+D G G G G
+
+D G G G G
+G D G G G
+G G T G G
+G G G X G
+G G G G X
+
+D G G G G
+G D G G G
+G G X G G
+G G G T G
+G G G G X
+
+D G G G G
+G D G G G
+G G X G G
+G G G X G
+G G G G T
+
+D G G G G
+G T G G G
+G G D G G
+G G G X G
+G G G G X
+
+D G G G G
+G X G G G
+G G D G G
+G G G T G
+G G G G X
+
+D G G G G
+G X G G G
+G G D G G
+G G G X G
+G G G G T
+
+D G G G G
+G T G G G
+G G X G G
+G G G D G
+G G G G X
+
+D G G G G
+G X G G G
+G G T G G
+G G G D G
+G G G G X
+
+D G G G G
+G X G G G
+G G X G G
+G G G D G
+G G G G T
+
+D G G G G
+G T G G G
+G G X G G
+G G G X G
+G G G G D
+
+D G G G G
+G X G G G
+G G T G G
+G G G X G
+G G G G D
+
+D G G G G
+G X G G G
+G G X G G
+G G G T G
+G G G G D
+
+G G G G D
+G G G D G
+G G T G G
+G X G G G
+X G G G G
+
+G G G G D
+G G G D G
+G G X G G
+G T G G G
+X G G G G
+
+G G G G D
+G G G D G
+G G X G G
+G X G G G
+T G G G G
+
+G G G G D
+G G G T G
+G G D G G
+G X G G G
+X G G G G
+
+G G G G D
+G G G X G
+G G D G G
+G T G G G
+X G G G G
+
+G G G G D
+G G G X G
+G G D G G
+G X G G G
+T G G G G
+
+G G G G D
+G G G T G
+G G X G G
+G D G G G
+X G G G G
+
+G G G G D
+G G G X G
+G G T G G
+G D G G G
+X G G G G
+
+G G G G D
+G G G X G
+G G X G G
+G D G G G
+T G G G G
+
+G G G G D
+G G G T G
+G G X G G
+G X G G G
+D G G G G
+
+G G G G D
+G G G X G
+G G T G G
+G X G G G
+D G G G G
+
+G G G G D
+G G G X G
+G G X G G
+G T G G G
+D G G G G
+
+X O O T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O T O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T O O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O O D T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O T D O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T O D O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O D O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X O D T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X T D O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D O O T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D O T O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+X D T O O
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O O T X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O T O X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D T O O X
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D G G G G
+O G G G G
+O G G G G
+T G G G G
+X G G G G
+
+D G G G G
+O G G G G
+T G G G G
+O G G G G
+X G G G G
+
+D G G G G
+T G G G G
+O G G G G
+O G G G G
+X G G G G
+
+O G G G G
+D G G G G
+O G G G G
+T G G G G
+X G G G G
+
+O G G G G
+D G G G G
+T G G G G
+O G G G G
+X G G G G
+
+T G G G G
+D G G G G
+O G G G G
+O G G G G
+X G G G G
+
+O G G G G
+O G G G G
+D G G G G
+T G G G G
+X G G G G
+
+O G G G G
+T G G G G
+D G G G G
+O G G G G
+X G G G G
+
+T G G G G
+O G G G G
+D G G G G
+O G G G G
+X G G G G
+
+O G G G G
+O G G G G
+T G G G G
+D G G G G
+X G G G G
+
+O G G G G
+T G G G G
+O G G G G
+D G G G G
+X G G G G
+
+T G G G G
+O G G G G
+O G G G G
+D G G G G
+X G G G G
+
+X G G G G
+O G G G G
+O G G G G
+T G G G G
+D G G G G
+
+X G G G G
+O G G G G
+T G G G G
+O G G G G
+D G G G G
+
+X G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G D
+
+X G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G D
+
+X G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G D
+
+X G G G G
+G T G G G
+G G O G G
+G G G D G
+G G G G O
+
+X G G G G
+G O G G G
+G G T G G
+G G G D G
+G G G G O
+
+X G G G G
+G O G G G
+G G O G G
+G G G D G
+G G G G T
+
+X G G G G
+G T G G G
+G G D G G
+G G G O G
+G G G G O
+
+X G G G G
+G O G G G
+G G D G G
+G G G T G
+G G G G O
+
+X G G G G
+G O G G G
+G G D G G
+G G G O G
+G G G G T
+
+X G G G G
+G D G G G
+G G T G G
+G G G O G
+G G G G O
+
+X G G G G
+G D G G G
+G G O G G
+G G G T G
+G G G G O
+
+X G G G G
+G D G G G
+G G O G G
+G G G O G
+G G G G T
+
+D G G G G
+G T G G G
+G G O G G
+G G G O G
+G G G G X
+
+D G G G G
+G O G G G
+G G T G G
+G G G O G
+G G G G X
+
+D G G G G
+G O G G G
+G G O G G
+G G G T G
+G G G G X
+
+G G G G X
+G G G D G
+G G O G G
+G O G G G
+T G G G G
+
+G G G G X
+G G G D G
+G G O G G
+G T G G G
+O G G G G
+
+G G G G X
+G G G D G
+G G T G G
+G O G G G
+O G G G G
+
+G G G G X
+G G G O G
+G G D G G
+G O G G G
+T G G G G
+
+G G G G X
+G G G O G
+G G D G G
+G T G G G
+O G G G G
+
+G G G G X
+G G G T G
+G G D G G
+G O G G G
+O G G G G
+
+G G G G X
+G G G O G
+G G O G G
+G D G G G
+T G G G G
+
+G G G G X
+G G G O G
+G G T G G
+G D G G G
+O G G G G
+
+G G G G X
+G G G T G
+G G O G G
+G D G G G
+O G G G G
+
+G G G G X
+G G G O G
+G G O G G
+G T G G G
+D G G G G
+
+G G G G X
+G G G O G
+G G T G G
+G O G G G
+D G G G G
+
+G G G G X
+G G G T G
+G G O G G
+G O G G G
+D G G G G
+
+G G G G D
+G G G T G
+G G O G G
+G O G G G
+X G G G G
+
+G G G G D
+G G G O G
+G G T G G
+G O G G G
+X G G G G
+
+G G G G D
+G G G O G
+G G O G G
+G T G G G
+X G G G G
+
+D D O T D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D D T O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D T D O D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+O T D D T
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D O T D D
+G G G G G
+G G G G G
+G G G G G
+G G G G G
+
+D G G G G
+D G G G G
+O G G G G
+T G G G G
+D G G G G
+
+D G G G G
+O G G G G
+T G G G G
+D G G G G
+D G G G G
+
+D G G G G
+T G G G G
+O G G G G
+D G G G G
+D G G G G
+
+D G G G G
+D G G G G
+D G G G G
+O G G G G
+T G G G G
+
+D G G G G
+G D G G G
+G G O G G
+G G G T G
+G G G G D
+
+D G G G G
+G O G G G
+G G T G G
+G G G D G
+G G G G D
+
+T G G G G
+G O G G G
+G G D G G
+G G G D G
+G G G G D
+
+O G G G G
+G T G G G
+G G D G G
+G G G D G
+G G G G D
+
+D G G G G
+G D G G G
+G G D G G
+G G G O G
+G G G G T
+
+G G G G D
+G G G D G
+G G O G G
+G T G G G
+D G G G G
+
+G G G G D
+G G G D G
+G G T G G
+G O G G G
+D G G G G
+
+G G G G O
+G G G T G
+G G D G G
+G D G G G
+D G G G G
+
+G G G G D
+G G G O G
+G G T G G
+G D G G G
+D G G G G
+
+G G G G T
+G G G O G
+G G D G G
+G D G G G
+D G G G G
+
+G G G G D
+G G G D G
+G G D G G
+G T G G G
+O G G G G
+
+G G G G D
+G G G D G
+G G D G G
+G O G G G
+T G G G G
+
+T G G G G
+X G G G G
+X G G G G
+G G G G G
+G G G G G
+
+X G G G G
+X G G G G
+T G G G G
+G G G G G
+G G G G G
+
+T X X G G
+G G G G G
+G G G G G
+G G D G G
+G G G G G
+
+X X T G G
+G G G G G
+G G G G G
+G G D G G
+G G G G G
+
+T G G G G
+G X G G G
+G G X G G
+G G D G G
+G G G G G
+
+X G G G G
+G X G G G
+G G T G G
+G G D G G
+G G G G G
+
+G G T G G
+G X G G G
+X G G G G
+G G D G G
+G G G G G
+
+G G X G G
+G X G G G
+T G G G G
+G G D G G
+G G G G G
+
+T G G G G
+X G G G G
+G G G G G
+G G G G G
+G G G G G
+
+G T G G G
+X G G G G
+G G G G G
+G G G G G
+G G G G G
+
+G G G G G
+X T G G G
+G G G G G
+G G G G G
+G G G G G
+
+G G G G G
+X G G G G
+G T G G G
+G G G G G
+G G G G G
+
+G G G G G
+X G G G G
+T G G G G
+G G G G G
+G G G G G
